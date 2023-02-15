@@ -8,6 +8,7 @@ import HomePage from './pages/HomePage';
 function App() {
   return (
     <Layout>
+      <h1>{process.env.REACT_APP_API_KEY}</h1>
       <Switch>
         <Route path='/' exact>
           <HomePage />
