@@ -1,6 +1,6 @@
 # React Auth with Firebase
 <p>
-React Auth Firebase is a dummy react excersize project that user can login and signup using the project and also user can see diferrent routes accroding to the authentication.
+React Auth Firebase is a practice project that utilizes the React framework and Firebase authentication. It allows users to sign up and log in using the project and displays different routes depending on the user's authentication status. This project is intended to help developers improve their skills in building authentication features using React and Firebase.
 </p>
 
 ## 💻 Getting Started
