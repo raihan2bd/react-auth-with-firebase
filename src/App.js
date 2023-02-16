@@ -11,7 +11,6 @@ function App() {
   const authCtx = useContext(AuthContext);
   return (
     <Layout>
-      <h1>{process.env.REACT_APP_API_KEY}</h1>
       <Switch>
         <Route path='/' exact>
           <HomePage />
